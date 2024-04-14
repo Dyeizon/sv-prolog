@@ -1,5 +1,3 @@
-# Stardew Valley - PROLOG
-
 # Documentação e Manual do Jogo de Adivinhação de Personagens de Stardew Valley
 
 ## Introdução
